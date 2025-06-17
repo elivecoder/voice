@@ -23,7 +23,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/voice-assistant.git
+git clone [https://github.com/yourusername/voice-assistant.git](https://github.com/elivecoder/voice/blob/main/voice_assistant_gui.py)
 cd voice-assistant
 Install dependencies
 
